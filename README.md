@@ -1,3 +1,5 @@
+[![](https://github.com/nicolasgarcia214/nicolasgarcia214/blob/main/dino.gif)](#)
+
 ## Hi from Colombia!
 
 Committed, critical and resourceful. I easily establish personal relationships and I like to serve others. Constantly seeking to improve myself and become better, I am motivated by challenges and I strive to achieve the best results. I have a special interest in Blockchain development but I'm working right now as a frontend developer. Find out more about me & feel free to connect with me here:
@@ -26,4 +28,5 @@ Committed, critical and resourceful. I easily establish personal relationships a
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nicolasgarcia214&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgarcia214&hide=TeX&layout=compact)
