@@ -2,19 +2,20 @@
 
 ## Hi from Colombia!
 
-Committed, critical and resourceful. I easily establish personal relationships and I like to serve others. Constantly seeking to improve myself and become better, I am motivated by challenges and I strive to achieve the best results. I have a special interest in Blockchain development but I'm working right now as a frontend developer. Find out more about me & feel free to connect with me here:
+Blockchain Security Researcher and Smart Contract Auditor.
+Engineer with more than 3 years of experience working as a fullstack developer using Javascript, ReactJs, NodeJs and Wordpress. Passionate about blockchain technologies. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicolasgarcia214-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasgarcia214/)](https://www.linkedin.com/in/nicolasgarcia214/)
 
 ## 🏁 Technologies
 
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=ethereum)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=ethereum)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
