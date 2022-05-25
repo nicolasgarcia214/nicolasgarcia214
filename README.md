@@ -6,6 +6,7 @@ Blockchain Security Researcher and Smart Contract Auditor.
 Engineer with more than 3 years of experience working as a fullstack developer using Javascript, ReactJs, NodeJs and Wordpress. Passionate about blockchain technologies. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicolasgarcia214-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasgarcia214/)](https://www.linkedin.com/in/nicolasgarcia214/)
+[![Twitter Badge](https://img.shields.io/badge/-@npg2311-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/ngp2311)
 
 ## 🏁 Technologies
 
